@@ -6,3 +6,5 @@ Author: Ronald
 2.Chat screen code
 3. Last seen code
 4. Attachment ( Image, Audio, Video) code
+
+Hiding the last seen

@@ -8,3 +8,7 @@ Author: Ronald
 4. Attachment ( Image, Audio, Video) code
 
 Hiding the last seen
+
+Adding the audio call feture
+
+Adding the video call feature
